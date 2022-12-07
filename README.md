@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Mateus Alves
 - 👀 I’m interested in Front-End Development
 - 🌱 I’m currently learning HTML and CSS
-- Instragran: mateusalves9611
 
 <!---
 zMateusADS/zMateusADS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
